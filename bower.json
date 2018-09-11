@@ -1,8 +1,0 @@
-{
-  "name": "fred-coookie",
-  "version": "1.0.0",
-  "main": "dist/cookies.d.ts",
-  "dependencies": {
-    "jquery": ">= 1"
-  }
-}
